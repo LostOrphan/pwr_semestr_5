@@ -44,7 +44,7 @@
 #outline(title: text(size: 42pt, weight: "bold")[Spis treści],
         )]
 #pagebreak()
-#set page(margin:2cm)
+#set page(margin:1.5cm)
 #set text(size:14pt)
 #set par(justify: true, first-line-indent:(amount:2em,all:true))
 = Treść zadania
@@ -63,7 +63,7 @@
 == Zadanie 1
 Zadanie znajdujące się w pliku *script1.sh* oczekiwało od nas wypisania nazw oraz zawartości plików wewnątrz folderu podanego poprzez parametr skryptu.
 
-Skrypt zaczyna się od linii *\#\!\/usr\/bin\/env bash*, co wskazuje powłoce jakiego interpretera użyć przy wykonywaniu skryptu. Następne wykorzystane polecenie  *shopt -s dotglob* modyfikuje zachowanie powłoki, pozwalając jej na włączenie do listy plików te, które zaczynają się od kropki (w systemach Linux rozpoczęcie się nazwy od kropki oznacza plik ukryty).
+Skrypt zaczyna się od linii *\!\/usr\/bin\/env bash*, co wskazuje powłoce jakiego interpretera użyć przy wykonywaniu skryptu (użyty zapis jest bardziej uniwersalny w kontekście używanych systemów Linuxa). Następne wykorzystane polecenie *shopt -s dotglob* modyfikuje zachowanie powłoki, pozwalając jej na włączenie do listy plików te, które zaczynają się od kropki (w systemach Linux rozpoczęcie się nazwy od kropki oznacza plik ukryty).
 
 Dalej wykonane jest przypisanie argumentu do zmiennej. Argumenty, podawane razem ze skryptem przechowywane są w zmiennych zaczynającej się od cyfry 1. W naszym przypadku więc pod zmienną *\$1* znajduje się podany przez użytkownika katalog.
 
@@ -85,7 +85,7 @@ W pętli *for*, która przechodzi przez wszystkie pliki w katalogu, posiada w so
 Po zakończeniu wzsystkich pętli wypisywane są zawartości odpowiednich tablic, kończąc wykonywanie skryptu
 
 #figure(image("skrypt2wynik.png", width:70%),caption: [Wynik działania skryptu nr. 2],supplement: [Zdjęcie])
-
+#pagebreak()
 = Wnioski
 Wykonanie zadania zostały poprawnie wykonane, zgodnie z ich treścią. Zapoznano się lepiej ze sposobem interpretacji argumentów programu, ze~sposobami działania na plikach oraz na składni tworzenia pętli lub porównań logicznych. Wiedza nabyta po wykonaniu zadań pozwoli na łatwiejsze wykonywanie zadań na następnych zajęciach 
 = Literatura 

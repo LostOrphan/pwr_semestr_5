@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 #
 # TREŚĆ
@@ -8,6 +8,12 @@
 #
 shopt -s dotglob # Uwzględnij ukryte pliki
 K=$1 # Argument z nazwą katalogu
+
+if [[ ! -d "$K" ]]; then # Sprawdzenie poprawności podanego argumentu
+    printf "Podany argument nie jest istniejącym katalogiem!\n"
+    printf "Użycie: ./script1.sh [katalog docelowy]"
+    exit 1
+fi
 
 for file in $K/* # Pętla przechodząca przez każdy plik w katalogu
 do

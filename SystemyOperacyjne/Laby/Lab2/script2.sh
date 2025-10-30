@@ -1,4 +1,4 @@
-#!/bin/bash
+#!usr/bin/env bash 
 #
 #
 # TREŚĆ:
@@ -14,6 +14,17 @@ P=$2
 arrayKinP=() # Tablice zapisujące ciągi znaków do późniejszego wyświetlenia
 arrayP=()
 checkPinK=1 # Zmienna pomocnicza aby sprawdzić istnienie plików z $P w katalogu $K tylko raz
+
+if [[ ! -d "$K" ]]; then # Sprawdzenie poprawrności argumentu 1
+  printf "Pierwszy argument nie jest istniejącym katalogiem\n"
+  printf "Użycie: ./script2.sh [katalog docelowy] [plik z listą nazw]"
+  exit 1
+fi
+if [[ ! -e "$P" ]]; then # Sprawdzenie poprawności argumentu 2
+  printf "Drugi argument nie jest istniejącym plikiem tekstowym\n"
+  printf "Użycie: ./script2.sh [katalog docelowy] [plik z listą nazw]"
+  exit 1
+fi
 
 for file in $K/* # Sprawdź każdy plik w katalogu $K
 do
@@ -36,7 +47,7 @@ do
       fi
     fi
   done < $P # Przekazanie pliku $P do wyczytania w pętli while
-  if [[ $existsKinP == 0 ]]; then # Jeżeli zmienna nie została zaktualizowana (nazwa nie wystepuje w pliku $P) dodaj nazwe pliku do tablicy
+  if [[ $existsKinP == 0 ]]; then # Jeżeli zmienna nie została zaktualizowana (nazwa nie wyśtepuje w pliku $P) dodaj nazwe pliku do tablicy
     arrayKinP+="$(basename $file)\n"
   fi
   checkPinK=0
