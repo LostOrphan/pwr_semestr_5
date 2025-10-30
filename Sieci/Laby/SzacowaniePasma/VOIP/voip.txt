@@ -1,0 +1,80 @@
+File
+
+Name:
+C:\Users\Wookie\AppData\Local\Temp\wireshark_WiFi 2XQNPE3.pcapng
+Length:
+4293 kB
+Hash (SHA256):
+75dfaa30d51056232302282d26f6bb5a8ea90c9a2ee20bf4e5085e64de664c8b
+Hash (SHA1):
+ee3c6139b42c76c65ef8619f37115c2cf0d8a636
+Format:
+Wireshark/... - pcapng
+Encapsulation:
+Ethernet
+
+Time
+
+First packet:
+2025-10-17 19:04:51
+Last packet:
+2025-10-17 19:10:29
+Elapsed:
+00:05:38
+
+Capture
+
+Hardware:
+AMD Ryzen 7 5800HS with Radeon Graphics (with SSE4.2)
+OS:
+64-bit Windows 11 (24H2), build 26100
+Application:
+Dumpcap (Wireshark) 4.6.0 (v4.6.0-0-gcdfb6721e77c)
+
+Interfaces
+
+Interface
+Dropped packets
+Capture filter
+Link type
+Packet size limit (snaplen)
+WiFi 2
+0 (0.0%)
+none
+Ethernet
+262144 bytes
+
+Statistics
+
+Measurement
+Captured
+Displayed
+Marked
+Packets
+15205
+11686 (76.9%)
+—
+Time span, s
+338.124
+338.124
+—
+Average pps
+45.0
+34.6
+—
+Average packet size, B
+249
+167
+—
+Bytes
+3780551
+1949580 (51.6%)
+0
+Average bytes/s
+11 k
+5765
+—
+Average bits/s
+89 k
+46 k
+—

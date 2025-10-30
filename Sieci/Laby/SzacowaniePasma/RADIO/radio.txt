@@ -1,0 +1,32 @@
+Measurement
+Captured
+Displayed
+Marked
+Packets
+6011
+3228 (53.7%)
+—
+Time span, s
+217.402
+217.199
+—
+Average pps
+27.6
+14.9
+—
+Average packet size, B
+903
+1132
+—
+Bytes
+5430181
+3652762 (67.3%)
+0
+Average bytes/s
+24 k
+16 k
+—
+Average bits/s
+199 k
+134 k
+—

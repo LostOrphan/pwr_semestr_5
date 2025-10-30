@@ -1,0 +1,5 @@
+E:\workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\AI_InstantAI\obj\Release\ResolveAssemblyReference.cache
+E:\workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\bin\Release\AI_InstantAI.exe
+E:\workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\bin\Release\AI_InstantAI.pdb
+E:\workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\AI_InstantAI\obj\Release\AI_InstantAI.exe
+E:\workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\AI_InstantAI\obj\Release\AI_InstantAI.pdb

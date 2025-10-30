@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = AI_InstantAI
+build_property.ProjectDir = C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

@@ -1,0 +1,20 @@
+C:\Advantech\DAQNavi\Examples\C#_Console\bin\Debug\netcoreapp3.1\AI_InstantAI.exe
+C:\Advantech\DAQNavi\Examples\C#_Console\bin\Debug\netcoreapp3.1\AI_InstantAI.deps.json
+C:\Advantech\DAQNavi\Examples\C#_Console\bin\Debug\netcoreapp3.1\AI_InstantAI.runtimeconfig.json
+C:\Advantech\DAQNavi\Examples\C#_Console\bin\Debug\netcoreapp3.1\AI_InstantAI.runtimeconfig.dev.json
+C:\Advantech\DAQNavi\Examples\C#_Console\bin\Debug\netcoreapp3.1\AI_InstantAI.dll
+C:\Advantech\DAQNavi\Examples\C#_Console\bin\Debug\netcoreapp3.1\AI_InstantAI.pdb
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.csproj.AssemblyReference.cache
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.csproj.CoreCompileInputs.cache
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_Insta.0B1BD799.Up2Date
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.dll
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.pdb
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.genruntimeconfig.cache
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.csproj.AssemblyReference.cache
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.csproj.CoreCompileInputs.cache
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_Insta.0B1BD799.Up2Date
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.dll
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.pdb
+C:\Advantech\DAQNavi\Examples\C#_Console\AI_InstantAI - Copy\ProjectFile\.NETCore\obj\Debug\netcoreapp3.1\AI_InstantAI.genruntimeconfig.cache

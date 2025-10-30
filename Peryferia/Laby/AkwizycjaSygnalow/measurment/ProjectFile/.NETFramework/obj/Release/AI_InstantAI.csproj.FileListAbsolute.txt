@@ -1,0 +1,10 @@
+E:\devops-workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\bin\Release\AI_InstantAI.exe
+E:\devops-workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\bin\Release\AI_InstantAI.pdb
+E:\devops-workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\AI_InstantAI\ProjectFile\.NETFramework\obj\Release\ResolveAssemblyReference.cache
+E:\devops-workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\AI_InstantAI\ProjectFile\.NETFramework\obj\Release\AI_InstantAI.exe
+E:\devops-workspace\axa_git\io_dn4_sdk_dev\example\C#_Console\AI_InstantAI\ProjectFile\.NETFramework\obj\Release\AI_InstantAI.pdb
+E:\azure_deployment\axa_git\develop\io_dn4_sdk\example\C#_Console\AI_InstantAI\ProjectFile\.NETFramework\obj\Release\ResolveAssemblyReference.cache
+E:\azure_deployment\axa_git\develop\io_dn4_sdk\example\C#_Console\AI_InstantAI\ProjectFile\.NETFramework\obj\Release\AI_InstantAI.exe
+E:\azure_deployment\axa_git\develop\io_dn4_sdk\example\C#_Console\AI_InstantAI\ProjectFile\.NETFramework\obj\Release\AI_InstantAI.pdb
+E:\azure_deployment\axa_git\develop\io_dn4_sdk\example\C#_Console\bin\Release\AI_InstantAI.exe
+E:\azure_deployment\axa_git\develop\io_dn4_sdk\example\C#_Console\bin\Release\AI_InstantAI.pdb
