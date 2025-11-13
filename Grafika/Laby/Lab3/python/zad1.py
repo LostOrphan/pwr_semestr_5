@@ -9,7 +9,7 @@ import numpy as np
 import math
 import time
 
-N=50
+N=25
 tab = np.zeros((N, N, 3), dtype=float)
 
 u_vals = np.linspace(0.0, 1.0, N)
